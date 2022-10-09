@@ -1,3 +1,6 @@
+# iTelevision已上线App Store
+<a href='https://apps.apple.com/cn/app/itelevision/id6443470500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
+> [https://apps.apple.com/cn/app/itelevision/id6443470500](https://apps.apple.com/cn/app/itelevision/id6443470500)
 # 测试源
 > 本项目所有文件及以下直播源均来自网络收集，仅用于iTelevision测试使用，禁止传播。本人不对内容的隐私和版权负责。
 - 频道测试：[https://raw.githubusercontent.com/strengthen/iTV/master/M3U/test_ip.m3u](https://raw.githubusercontent.com/strengthen/iTV/master/M3U/test_ip.m3u)
