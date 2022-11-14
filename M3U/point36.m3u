@@ -1,0 +1,279 @@
+#EXTM3U-[请在App Store搜索下载iTelevision，再进行导入频道！]
+#EXTINF:-1,tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1MzfRz8xLSa3QyzUutQAAox4nE0sAAAA=??
+#EXTINF:-1,tvg-id="1880" tvg-name="北京新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京新闻
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdNPKsnMTdUryCiwz0yxTSopqygHAFLNIsglAAAA??
+#EXTINF:-1,tvg-id="1875" tvg-name="北京影视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京影视
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdNPKsnMTdUryCiwz0yxTSopqywGAAo4VNYlAAAA??
+#EXTINF:-1,tvg-id="1873" tvg-name="北京文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京文艺
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdNPKsnMTdUryCiwz0yxTSopK68EAJr8AqglAAAA??
+#EXTINF:-1,tvg-id="1876" tvg-name="北京财经" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京财经
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdNPKsnMTdUryCiwz0yxTSopS84CABFqEgIlAAAA??
+#EXTINF:-1,tvg-id="1878" tvg-name="北京生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京生活
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdNPKsnMTdUryCiwz0yxTSopK84AAGwZ3qYlAAAA??
+#EXTINF:-1,tvg-id="1879" tvg-name="北京青年" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京青年
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdNPKsnMTdUryCiwz0yxTSopK8wDANvei30lAAAA??
+#EXTINF:-1,tvg-id="1874" tvg-name="北京纪实科教" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京纪实科教
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdNPKsnMTdUryCiwz0yxTSopy84CABngy8olAAAA??
+#EXTINF:-1,tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 东南卫视
+http://H4sIAAAAAAACExXHOw5AUBBG4R2Zmf8+jEnEBhQK0YgOIUHjSiyfe6rvjPBcmbKW5jRmQUyYxWwJk8UoTF3bD6S56j/AkwMECEED7de8vMXpHm3WM9XpxnbcH6Pf2npWAAAA??
+#EXTINF:-1,tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视", 东方卫视
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfBZkOYOFhbExdm5hoZ2Jx9ed6s2GwjWDY0wN74KkMEtmsz3dhWmelpWiV/8DCikggLlVOu+jvcOlT3wGqtTtSwAAAA==??
+#EXTINF:-1,tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视", 四川卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1sTDXz8xLSa3QyzUutbBPyy2xLSk2ysgpBgBEnMcyVgAAAA==??
+#EXTINF:-1,tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视", 天津卫视
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfHYROIOFhbExdm5hoZ2Jx9ed6s2GwpHOPqa6dUFSmCWz1T3NhGmelpW8F/8BhRQQoFo4nffR3uHSxz+SX8vsSwAAAA==??
+#EXTINF:-1,tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视", 安徽卫视
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfHYROIOFhbExdm5hoZ2Jx9ed6s2GwpHOPqa6dUFSmCWz1T3NhGmelpW8F/8BhRQQoFoInffR3uHSxz8DZWJxSwAAAA==??
+#EXTINF:-1,tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视", 山东卫视
+http://H4sIAAAAAAACExXHMQ5AQBBG4RvZmX9n15hEXEChEI3oEBKrQeL47Ku+N0KoMiUtzWvMAhsTsdkSJouRyXVtPzjNVf8B4jzAQBAVt5/z8hbJP9qs6a7vC9txfXmlIkRWAAAA??
+#EXTINF:-1,tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视", 广东卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1NzDUz8xLSa3QyzUutQAAnY74a0sAAAA=??
+#EXTINF:-1,tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视", 广西卫视
+http://H4sIAAAAAAACExXHQQ5AMBBG4RvpzF9qOom4gIWF2IidConatBLHp2/1vQU1eRWSVq24IrAyEauGZlXnmMw4TLORkv8PqI0FGHBgNue9hbeK9pF+j7nLCceVPvk2qRVWAAAA??
+#EXTINF:-1,tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视", 江苏卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1NzDSz8xLSa3QyzUutQAAbVxmHEsAAAA=??
+#EXTINF:-1,tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视", 江西卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1sTTSz8xLSa3QyzUutbBPyy2xLSk2ysgpBgAkss0oVgAAAA==??
+#EXTINF:-1,tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视", 河北卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjIFSWbmpaRW6OUal1rYp+WW2JYUG2XkFAMALnswh1YAAAA=??
+#EXTINF:-1,tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视", 河南卫视
+http://H4sIAAAAAAACExXHMQ5AQBBG4RvZmX93x+wk4gIKhWhEh5CgsRLHx6u+NyBQMiUtzav8AhsTsdkcRxNhcm3T9U7/0ndAcB5gIAqz285pforD31ovR67yhXW/XvqRQxxWAAAA??
+#EXTINF:-1,tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视", 浙江卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1NzDWz8xLSa3QyzUutQAAAhDDh0sAAAA=??
+#EXTINF:-1,tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视", 海南卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjIDEvqZeSmpFXq5xqUW9mm5JbYlxUYZOcUAxA9MY1YAAAA=??
+#EXTINF:-1,tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视", 深圳卫视
+http://H4sIAAAAAAACExXHOw5AUBBG4R2Zmf8+zJ1EbEChEI3oEBI0rsTycarvDPCcTFlLcxp/QUyYxWwOo8UoTG3T9aR/6TvAkwMECCEpbec0P8Xhbq2XI1f5wrpfL+WyaWBWAAAA??
+#EXTINF:-1,tvg-id="45" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视", 湖北卫视
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfHYROIOFhbExdm5hoZ2Jx9ed6s2GwpHOPqa6dUFSmCWz1T3NhGmelpW8F/8BhRQQoFoEnffR3uHSxz/9E253SwAAAA==??
+#EXTINF:-1,tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视", 山西卫视
+http://H4sIAAAAAAACE8vJLEvVS87Pzykp0yvJL9AvKdOvLEwBcgoyCuwzU2wNjY0BucQUUSMAAAA=??
+#EXTINF:-1,tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1NzDRz8xLSa3QyzUutQAAjflb80sAAAA=??
+#EXTINF:-1,tvg-id="" tvg-name="湖南经视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南经视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLPhwAhGm1taGOvnJmbm6eUal1rYezoGe5SUFASnFhdn5ud5ptj6h4QAAAo41p5mAAAA??
+#EXTINF:-1,tvg-id="" tvg-name="湖南娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南娱乐
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLMRggZwYGKgn5uYmaeXa1xqYe/pGOxRUlIQnFpcnJmf55li6x8SAgB0rd/eZgAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="湖南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南都市
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLMRggZwYGKon5uYmaeXa1xqYe/pGOxRUlIQnFpcnJmf55li6x8SAgDeqAUvZgAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="湖南电影" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南电影
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLMRggZwYGyhn5uYmaeXa1xqYe/pGOxRUlIQnFpcnJmf55li6x8SAgD5axa9ZgAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="湖南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南公共
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLMRggZwYGKin5uYmaeXa1xqYe/pGOxRUlIQnFpcnJmf55li6x8SAgBet1WvZgAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="湖南国际" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南国际
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLMRggZwYGKqn5uYmaeXa1xqYe/pGOxRUlIQnFpcnJmf55li6x8SAgD0so9eZgAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="湖南教育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南教育
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLNhDEMzCMvYzMLc0Ew/NzEzTy/XuNTC3tMx2KOkpCA4tbg4Mz/PM8XWPyQEAA02jalmAAAA??
+#EXTINF:-1,tvg-id="" tvg-name="湖南视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南视剧
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLMRggZwYGyun5uYmaeXa1xqYe/pGOxRUlIQnFpcnJmf55li6x8SAgA4TZfmZgAAAA==??
+#EXTINF:-1,tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视", 贵州卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1sTDWz8xLSa3QyzUutbBPyy2xLSk2ysgpBgDXPZsyVgAAAA==??
+#EXTINF:-1,tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视", 辽宁卫视
+http://H4sIAAAAAAACExXHMQ5AQBBG4RvZmX93x+wk4gIKhWhEh5CgsRLHx6u+NyBQMiUtzav8AhsTsdkcRxNhcm3T9U7/0ndAcB5gIAqx285pforD31ovR67yhXW/Xt30Zp1WAAAA??
+#EXTINF:-1,tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视", 重庆卫视
+http://H4sIAAAAAAACExXHMQ5AQBBG4RvZmX93x+wk4gIKhWhEh5CgsRLHx6u+NyBQMiUtzav8AhsTsdkcRxNhcm3T9U7/0ndAcB5gIArDbec0P8Xhb62XI1f5wrpfL8eopmpWAAAA??
+#EXTINF:-1,tvg-id="46" tvg-name="龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视", 龙江卫视
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfHYROIOFhbExdm5hoZ2Jx9ed6s2GwpHOPqa6dUFSmCWz1T3NhGmelpW8F/8BhRQQoFownffR3uHSxz9sKcfqSwAAAA==??
+#EXTINF:-1,tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视", 甘肃卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNbAyMrCyMjYwMo7VN7QwAANDINI3gLNhwMQUQhtZmFsaG+nnJmbm6eUal1rYezoGe5SUFASnFhdn5ud5ptj6h4QAAIsWn11mAAAA??
+#EXTINF:-1,tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视", 吉林卫视
+http://H4sIAAAAAAACEy3BwQ5AMAwA0D9qu2qofoODg7iIwwyxxMYB8fku3htYqDYlrUyEyJjMmafVnLN6xHheD4Q5w+YhbDH7dExxXyAcCdum61F/yCxYMDvmslTBmOflhVTc+gHkL2f0YgAAAA==??
+#EXTINF:-1,tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视", 三沙卫视
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3Mk01MLQyNrGyMjKMtTIzMzTQjwpxjXf2DdY3sLC0MDExgAEzA2RgbGipn5mXklqhl2tcamHv6RgMAHLH4L9UAAAA??
+#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="卫视", 海峡卫视
+http://H4sIAAAAAAACEy3NsQrCMBAG4LdxNHd/zuZyUMTNgoO04iJONkIGazFR9O118HuB7wShaEoazAvUQLYiMmOi69mahsntd4ej0z8HiPMAA4GjujyN6b28+aeuS3q88iXVz5xaXnSbYVvrPKRS8n3qxrbvBV5BAP1K9hJYmCMH/QLONQhWhAAAAA==??
+#EXTINF:-1,tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视", 新疆卫视
+http://H4sIAAAAAAACEw3IQQ6DIBAF0Nu4REVmGBfG9Ax6AfyOgaRoYmhre/r6lu+Z3hq/HzKIaQ8ZAVENjlzfWf+WpjW5e8lYrklxahlIOuc3b4NCLSyBhRZZ4dbgHZOtyjWnrENPD2Ym+QMQTX7EYAAAAA==??
+#EXTINF:-1,tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://ikanpic.kanketv.com/image/live/icon/bingtuan.png" group-title="卫视", 兵团卫视
+http://H4sIAAAAAAACEytJLS4x1UsqqarQS87P1UvO08/JLEvVTyqpyEoqKS/WKy4pSk3M1S/ISazMySwu0cs1LrUAAPII1qs0AAAA??
+#EXTINF:-1,tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视", 云南卫视
+http://H4sIAAAAAAACEy3NsQrCMBAG4LdxNHd/zuZ6UMStBQdpxUWcbIQM1tJE0bfXwe8FvjOEalPSYF6gBrINkRkT3S5WVUzusD+enP45QJwHGAis7NI0xvf67p+6zXF5pWssnzk2vOp2Q1vKPMSc02PqxqbvBV5BAP1K9hJYmGsO+gXWGvVzhAAAAA==??
+#EXTINF:-1,tvg-id="厦门" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视", 厦门卫视
+http://H4sIAAAAAAACEy3BPQ5AQBAG0BuZmW/XGpOICygUohEVK1EQ8Rdur/FeB8+5KWtmzkMNbCmzmTBPvYUgTHXVtKQ/Ajw5QICQqdC8jvFJFndpecT9nod4vlss5AN8xEE/WAAAAA==??
+#EXTINF:-1,tvg-id="6555" tvg-name="梨园频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cctvpayfee20.jpg" group-title="卫视", 梨园频道
+http://H4sIAAAAAAACEy3GIQ6AQAwEwB/RdntXyr4BgSAYguMEAhwJzyckjJoVRQemZk/P+AajqRrZ6sYIU5nGeZH8CVDEAQNqTRPIce3t6U6/8wXpV3cLTQAAAA==??
+#EXTINF:-1,tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wushushijie.jpg" group-title="卫视", 武术世界
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C2gQN/IyETf2MjI0MjI1NQAyNXPzEtJrdDLNS61AAAuZKhqTQAAAA==??
+#EXTINF:-1,tvg-id="6590" tvg-name="国学频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shuowenjiezi.jpg" group-title="卫视", 国学频道
+http://H4sIAAAAAAACEy3BQQ6DIBAF0BvNDF+iMGdw0UXjxnSBQAOJYBfaePxu+t4KK16duEmtFVGIGg3yVmPUv7h+zi/F1KkEiqX20I6t7pni0fgxPxd2fwxYHgADjCM8157yTW243A8sSJdQYgAAAA==??
+#EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视", 江西少儿
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjIztDTRz8xLSa3QyzUutbBPyy2xLSk2ysgpBgBT92ZpVgAAAA==??
+#EXTINF:-1,tvg-id="江西陶瓷" tvg-name="江西陶瓷" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视", 江西陶瓷
+http://H4sIAAAAAAACEy3NMQrCQBAF0NtYujN/xuxkIIidAQtJxEaszApbGIMbRW+vhe8C7wSl2o0suijMQb4icmei69mriinsd4djsL8AaBCAgQjRkMchvZc3edq6pMcrX9L8mVLDi3bTb+d56lMp+T62Q9N1CjEQQL+SRSMrc83RvtG6Vm+EAAAA??
+#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 福建少儿
+http://H4sIAAAAAAACEy3BPQ5AQBAG0BuZmW/XGpOICygUohEVK1EQ8Rdur/FeB8+5KWtmzkMNbCmzmTBPvYUgTHXVtKQ/Ajw5QIBMck/zOsYnWdyl5RH3ex7i+W6xkA8eOP/6WAAAAA==??
+#EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 福建视剧
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjYxsrAyMrAyNTCwsjI0MLCMtTIzMzTQD/AJCdO3gAJ9IyMTfWMjI0MjI3MDc0v9zLyU1Aq9XONSC/vi1KKyzOTUksqCVFtDANo4avdYAAAA??
+#EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 福建旅游
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjYxsrAyMrAyNTCwsjI0MLCMtTIzMzTQD/AJCdO3gAJ9IyMTfWMjI0MjI3NDSwP9zLyU1Aq9XONSC/vi1KKyzOTUksqCVFtDAKHFMDpYAAAA??
+#EXTINF:-1,tvg-id="福建文体" tvg-name="福建文体" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 福建文体
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjYxsrAyMrAyNTCwsjI0MLCMtTIzMzTQD/AJCdO3gAJ9IyMTfWMjI0MjI3NDIDczLyW1Qi/XuNTCvji1qCwzObWksiDV1hAAXPOVAVgAAAA=??
+#EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 福建综合
+http://H4sIAAAAAAACEy3BPQ5AQBAG0BuZmW/Xmp1EXEChEI2o2EJBxF+4vcZ7PTxHU9bCnIca2HJmM2GOg4UgTE3ddqQ/Ajw5QIBCfKR5ndKTLe7S6kj7PY/pfLdUygcE6EtFWAAAAA==??
+#EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 福建经济
+http://H4sIAAAAAAACEy3BPQ5AQBAG0BuZmW8Xs5OICygUohEVW2xBxF+4vcZ7AzwHU9bSnIca2HJmM2EOoxWFMLVN15P+CPDkAAFKUU9pneOTLe7S+oj7naZ4vlus5AM+SCh+WAAAAA==??
+#EXTINF:-1,tvg-id="海南经济" tvg-name="海南经济" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视", 海南经济
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3Mk01MLQyNrGyMjKMtTIzMzTQjwpxjXf2DdY3sLC0MDExgAEzA2RgbGSgn5mXklqhl2tcamHv6RgMACiSATFUAAAA??
+#EXTINF:-1,tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视", 海南少儿
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+#EXTINF:-1,tvg-id="海南公共" tvg-name="海南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视", 海南公共
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3Mk01MLQyNrGyMjKMtTIzMzTQjwpxjXf2DdY3sLC0MDExgAEzA2RgbGGkn5mXklqhl2tcamHv6RgMABJojYRUAAAA??
+#EXTINF:-1,tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="国际", 凤凰中文
+http://H4sIAAAAAAACEy3BTQ5AMBAG0BuZ6ddqxyTiAhYWYiNWVNIFEX/h9jbe6+G4UGEJah1EwZozqxrmeVDvDVNTtx3JjwBHFjBAAEBpneKTLfaS6oj7ncZ4vlsszQfBGem2WAAAAA==??
+#EXTINF:-1,tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="国际", 凤凰资讯
+http://H4sIAAAAAAACEy3BTQ5AMBAG0BuZ6ddqxyTiAhYWYiNWVNIFEX/h9jbe6+G4UGEJah1EwZozqxrmeVDvDVNTtx3JjwBHFjBAADyldYpPtthLqiPudxrj+W6xNB8fj32cWAAAAA==??
+#EXTINF:-1,tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv1.png" group-title="央视", CCTV-1综合
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfFhkOYOFhbExdm5hoZ2Jx9ed6s0G45rBMaaGd0FSmCWzlT3dhWmelpWiV/8DjBQQoLiBzvto73DpEx+N19BBSwAAAA==??
+#EXTINF:-1,tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv2.png" group-title="央视", CCTV-2财经
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfFhkOYOFhbExdm5hoZ2Jx9ed6s0G45rBMaaGd0FSmCWzlT3dhWmelpWiV/8DjBQQoLgpnffR3uHSJz7im3XaSwAAAA==??
+#EXTINF:-1,tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv3.png" group-title="央视", CCTV-3综艺
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfFhkOYOFhbExdm5hoZ2Jx9ed6s0G45rBMaaGd0FSmCWzlT3dhWmelpWiV/8DjBQQoLganffR3uHSJz41dJ7TSwAAAA==??
+#EXTINF:-1,tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv4.png" group-title="央视", CCTV-4中文国际
+http://H4sIAAAAAAACExXHIRKAMAxE0RuRZNuGdM+AQDAYBkcFAhwzHB/61fsbslaGxsgU3gWjqRrZyk53U5mnZZXo1f+ALAkwoDhMzvto73ClJz6g2quWSwAAAA==??
+#EXTINF:-1,tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv5.png" group-title="央视", CCTV-5体育
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1MzbWz8xLSa3QyzUutQAAup0Gp0sAAAA=??
+#EXTINF:-1,tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv6.png" group-title="央视", CCTV-6电影
+http://H4sIAAAAAAACExXHIRKAMAwF0RuR5KdN05wBgWAwDK4VCHDMcHzoqrc7Etdw9hLqNgQJYZaIno8wE6ZlXjfyUf0PSKSAANkUdN6tv9Olj3/V0aM8SwAAAA==??
+#EXTINF:-1,tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv7.png" group-title="央视", CCTV-7国防军事
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1AzIz81JSK/RyjUstALCtCA5LAAAA??
+#EXTINF:-1,tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv8.png" group-title="央视", CCTV-8电视剧
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1MzbUz8xLSa3QyzUutQAAJQM9S0sAAAA=??
+#EXTINF:-1,tvg-id="10" tvg-name="CCTV-9纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv9.png" group-title="央视", CCTV-9纪录
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfFhkOYOFhbExdm5hoZ2Jx9ed6s0G45rBMaaGd0FSmCWzlT3dhWmelpWiV/8DjBQQoLg5nffR3uHSJz7y7NZCSwAAAA==??
+#EXTINF:-1,tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv10.png" group-title="央视", CCTV-10科教
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1MzbTz8xLSa3QyzUutQAAquqlP0sAAAA=??
+#EXTINF:-1,tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv11.png" group-title="央视", CCTV-11戏曲
+http://H4sIAAAAAAACExXHIRKAMAxE0RuRZNuGbc6AQDAYBkcFAhwzHB/61fsbstagcoxE74KFqVpEK3u4m8o8LauwV/8DsiTAgOKgnPfR3uFKDz8x4AILSwAAAA==??
+#EXTINF:-1,tvg-id="13" tvg-name="CCTV-12社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv12.png" group-title="央视", CCTV-12社会与法
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1MzbXz8xLSa3QyzUutQAAxaYApEsAAAA=??
+#EXTINF:-1,tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv13.png" group-title="央视", CCTV-13新闻
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1M7bQz8xLSa3QyzUutQAAtDmU1ksAAAA=??
+#EXTINF:-1,tvg-id="15" tvg-name="CCTV-14少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv14.png" group-title="央视", CCTV-14少儿
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfFhkOYOFhbExdm5hoZ2Jx9ed6s0G45rBMaaGd0FSmCWzlT3dhWmelpWiV/8DjBQQoLgxnffR3uHSJz4SSeutSwAAAA==??
+#EXTINF:-1,tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv15.png" group-title="央视", CCTV-15音乐
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfFhkOYOFhbExdm5hoZ2Jx9ed6s0G45rBMaaGd0FSmCWzlT3dhWmelpWiV/8DjBQQoLgJnffR3uHSJz59BU42SwAAAA==??
+#EXTINF:-1,tvg-id="16" tvg-name="CCTV-16奥林匹克" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv16.png" group-title="央视", CCTV-16奥林匹克
+http://H4sIAAAAAAACExXHMRJAUAxF0R3JywuRnzUoFEZjdH6hoDNj+fxbnbuxR8lAjGnhTdRUQDPrsKe7QuZpWSVa5T+yFyOVdBrkvI/6dpc98QEoqknYSwAAAA==??
+#EXTINF:-1,tvg-id="17" tvg-name="CCTV-17农业农村" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv17.png" group-title="央视", CCTV-17农业农村
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfHYROIOFhbExdm5hoZ2Jx9ed6s2GwpHOPqa6dUFSmCWz1T3NhGmelpW8F/8BhRQQoAYHnffR3uHSxz/jrW+mSwAAAA==??
+#EXTINF:-1,tvg-id="106" tvg-name="CCTV-4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv4k.png" group-title="央视", CCTV-4K超高清
+http://H4sIAAAAAAACE8vJLEvNL9BLTi4p00vO08/IKdY38fZw0S/ISazMySwu0cs1LrUAAMG3LHglAAAA??
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-4中文国际欧洲" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv4euo.png" group-title="央视", CCTV-4中文国际欧洲
+http://H4sIAAAAAAACEz3KQQ7CIBAF0BPJDAMFhsR4ARcujBtjGttUSwKtEWyvL3bhW/xM/p8raWTv0FkvkdArlJ6QjPfU3WoP62gfutG9NmXVvwW5aneOlWRryMIzxy4P70WEV1nElEQ/hume5i7EQfRzgtPxfAG3YQQiDYpIEjVsGCRWW2zM/8L6zGxbFDmFCChFUh93eKSyL5nGmL9rhXhruwAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-4中文国际美洲" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv4ame.png" group-title="央视", CCTV-4中文国际美洲
+http://H4sIAAAAAAACEz2KywrCMBRE/yj3kTS5CYg/4MKFuBEptlQbaFoxsf19QxeexTCcmRsb9EFQXCBkDBopMLINgeRePWyje5rG9MaWzdRFvIh1rSZnrWNL8MpTl4fPquK7rGpOqh/j/EhLF6dB9UuC8+lyBdnxCMwGNDMxN94hEFb22LH/hvXsvW1R5RQnQFJJf+X4TOVQMo9T/gGr9vv9ugAAAA==??
+#EXTINF:-1,tvg-id="20" tvg-name="CGTN中文" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cgtn.png" group-title="央视", CGTN中文
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLPhwAhGWxgYWurnJmbm6eUal1rYezoGe5SUFASnFhdn5ud5ptj6h4QAABgC/Q1mAAAA??
+#EXTINF:-1,tvg-id="891" tvg-name="CGTN纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cgtndoc.png" group-title="央视", CGTN纪实
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLPhwAhGWxgYGunnJmbm6eUal1rYezoGe5SUFASnFhdn5ud5ptj6h4QAAPM+9idmAAAA??
+#EXTINF:-1,tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctv5+.png" group-title="央视", CCTV-5+体育赛事
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1NzDTz8xLSa3QyzUutQAAEmdgH0sAAAA=??
+#EXTINF:-1,tvg-id="73" tvg-name="CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视", CETV-1
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjK1NDTXz8xLSa3QyzUutbBPyy2xLSk2ysgpBgCfjNITVgAAAA==??
+#EXTINF:-1,tvg-id="7245" tvg-name="CETV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视", CETV-4
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyNI3VN7QwAANDINI3gLNhDENzCMvExMDMzFQ/My8ltUIv17jUAgD4OWLuUgAAAA==??
+#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="数字", 第一财经
+http://H4sIAAAAAAACEx3ITQqAIBAG0Bs502eYzhlatIg20aI0SEgL+qHjF73l61GyE8u2koq5ELBARA9fUZjift7qyMovMY9pm+I6K78lauq2I/tzmoCSNFAAxhlDMYf5UUlf9gX5NiFKXQAAAA==??
+#EXTINF:-1,tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cctvpayfee8.jpg" group-title="数字", 兵器科技
+http://H4sIAAAAAAACEx3ITQ5AMBAG0Bt1xle0nTNYWIiNWCgSTbQkfuL4xFu+Djk7sWyNGOZMwAIR3X9Fkw/7easjqXEJaYibD+usxi1SXTUt2Z/TBOSkgQwonSkopGl+VNSXfQGMPSngXQAAAA==??
+#EXTINF:-1,tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cctvpayfee7.jpg" group-title="数字", 怀旧剧场
+http://H4sIAAAAAAACEx3ITQqAIBAG0Bs502ekzhlatIg20aI0SEgL+qHjF73l61GyE8vWiGEuBCwQ0cNXFKa4n7c6svJLzGPaprjOym+JmrrtyP6cJqAkDRRA5Qwo5jA/KunLvgPUsZRdAAAA??
+#EXTINF:-1,tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctvshijiedili.png" group-title="数字", 世界地理
+http://H4sIAAAAAAACEx3IOwqAMBAFwBtlNy/BJHsGCwuxEQt/YMBEwQ8eX3HKaWE5iGfvxDFrAQtETPcVTUPcz1sdWY1LzH3ahrjOatwSVWXdkP8FQ4AlA2igCNZRzNP8qGQu/wLdz9ixXQAAAA==??
+#EXTINF:-1,tvg-id="6569" tvg-name="文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctvwenhuajingpin.png" group-title="数字", 文化精品
+http://H4sIAAAAAAACEx3IOwqAMBAFwBtlNy+imz2DhYXYiIU/MGCi4AePrzjltMjYq7AUWjBbBStUXfcVTUPYz9scyYxLSH3chrDOZtwiVWXdkPy8IyAjB1gg92IppGl+THSXvMbTX8RdAAAA??
+#EXTINF:-1,tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctvtaiqiu.png" group-title="数字", 央视台球
+http://H4sIAAAAAAACEx3IOwqAMBAFwBtl1xc/yZ7BwkJsxEITwYCJgh88vuKU0yNnK4ZNJRVzJmCBiB6+Ij+F/bzVkZRbQhrjNoV1Vm6L1NRtR+ZnNQE5aSADSluUFJKfHxX1ZV43Wuv3XQAAAA==??
+#EXTINF:-1,tvg-id="6568" tvg-name="央视高网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cctvpayfee13.jpg" group-title="数字", 央视高网
+http://H4sIAAAAAAACEx3IOwqAMBAFwBtl1xcxmz2DhYXYiIU/MGCi4AePrzjltMjZq7A4dcyZghWqtvuKpiHs522OZMYlpD5uQ1hnM26RqrJuSH7eEpCTBTKg8E4opGl+TLSXvGI8hn5dAAAA??
+#EXTINF:-1,tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctbfengyun.png" group-title="数字", 风云剧场
+http://H4sIAAAAAAACEx3IOwqAMBAFwBtlNy9Rkz2DhYXYiIU/MGCi4AePrzjltLDsxbErpGDWAhaImO4rmoawn7c6khqXkPq4DWGd1bhFqsq6IffzhgBLBtBA7jOmkKb5UdFc7gXX/9YYXQAAAA==??
+#EXTINF:-1,tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctvfengyunyinyue.png" group-title="数字", 风云音乐
+http://H4sIAAAAAAACEx3IOQqAMBAF0Btlxj8uyZzBwkJsxMINDJgouODxFV/5WqTs1LIttGBOFKxQle4rmga/n7c5ohkXH/uwDX6dzbgFqsq6IftzQkBKAiRA7jIhH6f5MUEu+wInLUhvXQAAAA==??
+#EXTINF:-1,tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctvdiyijuchang.png" group-title="数字", 第一剧场
+http://H4sIAAAAAAACEx3IOwqAMBAFwBtlNy9Rkz2DhYXYiIU/MGCi4AePrzjltLDsxbErpGDWAhaImO4rmoawn7c6khqXkPq4DWGd1bhFqsq6IffzhgBLBtBA7jNPIU3zo6K53AtGxX+FXQAAAA==??
+#EXTINF:-1,tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctvnvxing.png" group-title="数字", 女性时尚
+http://H4sIAAAAAAACEx3ITQqAIBAG0Bs542eUzhlatIg20SItSEgL+qHjF73l61GwE8u2kopZC1ggYoavaPJxP291ZBWWmMe0+bjOKmyJmrrtyP6cIaAgA2igdKWjmKf5Uclc9gWIqbU4XQAAAA==??
+#EXTINF:-1,tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/cctv/cctvfengyunzuqiu.png" group-title="数字", 风云足球
+http://H4sIAAAAAAACEx3IOwqAMBAFwBtl15egmz2DhYXYiIU/MGCi4AePrzjltHDsVVgKLZgzBStUbfcVTUPYz9scyYxLSH3chrDOZtwiVWXdkPy8JcCRBTIg9+IopGl+TLSXvNak/FxdAAAA??
+#EXTINF:-1,tvg-id="6245" tvg-name="动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/chc1.jpg" group-title="数字", 动作电影
+http://H4sIAAAAAAACEyWL2wqDMBAF/yg5rrdkQXzxL6SIpIEs5AKtivbrS+28zLzMTA0sG5ieewBM4OpnJnpwhw76khy8Ju0Cbiys/RehbbXkpz9VqnczHvLa9jVOJa2Sh/tTUQ6/hPhWn80rV9IX+9D+xHAAAAA=??
+#EXTINF:-1,tvg-id="6246" tvg-name="家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/chc2.jpg" group-title="数字", 家庭影院
+http://H4sIAAAAAAACEyWLzQqDMBAG3yj5urWaLBQvvkWRIjGQhfxAq6I+vahzmbnMhypYNjANNwCYwI/TTNRzjRp6kxy8Ju0CLiysvYtgXlry6FeVnrNpF/lN8xC7kgbJ7+tTURb/DfGv9skrV9IBA342x3AAAAA=??
+#EXTINF:-1,tvg-id="6241" tvg-name="高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/chc3.jpg" group-title="数字", 高清电影
+http://H4sIAAAAAAACEyWLQQqDMBQFb5S8/tqYfChuvEWRIjaQD0kEjaKevqizmdnMhyo4trA11wCYwI/TTNSxgYHeJQevSQ8BFw7O3UUwLy355zeVnottVpnK0sd2TL3k9/WpKKv/hjiro3g1jOkPqfzck3AAAAA=??
+#EXTINF:-1,tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="数字", 金鹰卡通
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjUwNLQyNDAysLIyTIvVN7QwAANDINI3gLMRggZwYGypn5uYmaeXa1xqYe/pGOxRUlIQnFpcnJmf55li6x8SAgBTbsxMZgAAAA==??
+#EXTINF:-1,tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="数字", 金鹰纪实
+http://H4sIAAAAAAACExXHOw5AUBBG4R2Zmf8+zJ1EbEChEI3oEBI0rsTycarvDPCcTFlLcxp/QUyYxWwOo8UoTG3T9aR/6TvAkwMECCEF2s5pforD3VovR67yhXW/XoS6//tWAAAA??
+#EXTINF:-1,tvg-id="6585" tvg-name="茶友频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/documentary-channel.jpg" group-title="数字", 茶友频道
+http://H4sIAAAAAAACExXHMQ5AQBBG4RuZmX9Zs5OICygUohGdFRI0uxLHx6u+N6HkYMpam1P/C2LCLGaxms17Yeq7YST9C98BJTlAgKpWof1a4lOc7tZ2PXOTE7YjvW1Y4OpWAAAA??
+#EXTINF:-1,tvg-id="http://epg.51zmt.top:8000/tb1/qt/kuailechuidiao.jpg" tvg-name="快乐垂钓" tvg-logo="" group-title="数字", 快乐垂钓
+http://H4sIAAAAAAACEyWLSwqEMBAFb5S86ZGYNAxuvIWIiAbSkETwh3p60alN1aYaKuDYwpZcAmACfx4zUcsGBvqUHLwmPQS8ODj3LyJTaMmjP1T6brbaZV63PtZT6iX/3k9F2X0X4qKu1athSjfdMohTcAAAAA==??
+#EXTINF:-1,tvg-id="1988" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="数字", 纪实人文
+http://H4sIAAAAAAACExXHMQ6AQAgF0RsJfBZkOYOFhbExdm5hoZ2Jx9ed6s2GwjWDY0wN74KkMEtmsz3dhWmelpWiV/8DCikggLkZnffR3uHSJz6H597oSwAAAA==??
+#EXTINF:-1,tvg-id="1976" tvg-name="乐游频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字", 乐游频道
+http://H4sIAAAAAAACEyWLQQqDMBQFb5Q8f61JPhQ33qKIiA3kQxJBjdieXrSzmdnMm2o4trCGDQAmcHWZiXpu0EB/JQevSU8BNw7O/Yuqp9GSP/5Q6VFsu8uylTF2cxolv+5PRdn9EOKqfptX05xOD3sBy3AAAAA=??
+#EXTINF:-1,tvg-id="纯享4k" tvg-name="纯享超清" tvg-logo="https://gitee.com/frankwuzp/iptv/raw/master/tvg-logo/4k.png" group-title="数字", 纯享超清
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C1AwBLIMzIy0Tc2MjI0MjI1tzDTz8xLSa3QyzUutQAAf7RjRUsAAAA=??
+#EXTINF:-1,tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字", 生活时尚
+http://H4sIAAAAAAACEy3BsQ5AMBAA0D+6u57Sum8wGMQihmormmgZEJ9v8d7EmlqxZI1oTSRMosTRKkpJO2M6rwd8KLA58FsqLh9L2iP4I2PfDSPaHzJrrJgVc1MbwlRCfCFXt/0AdeRwrGIAAAA=??
+#EXTINF:-1,tvg-id="" tvg-name="都市剧场" tvg-logo="" group-title="数字", 都市剧场
+http://H4sIAAAAAAACEy3BwQ5AMAwA0D9qu2rY+g0ODuIiDrMRS2wcEJ/v4r2RhZxaso2KECmTGvW0qjHqJkzn9UCIBTYPYUvF52NO+wLhyNi1/YD2h8yCFbNhrmsnmEpcXsjVbT9h9vEpYgAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="法治天地" tvg-logo="" group-title="数字", 法治天地
+http://H4sIAAAAAAACEy3BsQ5AMBAA0D+6u15b6r7BYBCLGKpIm2gZEJ9v8d7Ihhpx5GoxhkiYRImnTZSSZsJ0Xg+EpUD0EGIqPh9z2lcIR8au7Qd0P2Q2qJkVc1VZi6ks6wtZ3+4D9QPuKGIAAAA=??
+#EXTINF:-1,tvg-id="" tvg-name="金色学堂" tvg-logo="" group-title="数字", 金色学堂
+http://H4sIAAAAAAACEy3NsQrCMBAG4LdxNHd/zuZ6UMStBQdpxUWcbIQM1tJE0bfXwe8FvjOEalPSYF6gBrINkRkT3S5WVUzusD+enP45QJwHGAggdWka43t990/d5ri80jWWzxwbXnW7oS1lHmLO6TF1Y9P3Aq8ggH4lewkszDUH/QLe8SbChAAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="动漫秀场" tvg-logo="" group-title="数字", 动漫秀场
+http://H4sIAAAAAAACEy3NsQrCMBAG4LdxNHd/zuZ6UMStBQdpxUWcbIQM1tJE0bfXwe8FvjOEalPSYF6gBrINkRkT3S5WVUzusD+enP45QJwHGAgU2KVpjO/13T91m+PyStdYPnNseNXthraUeYg5p8fUjU3fC7yCAPqV7CWwMNcc9Ascs7vRhAAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="数字", 黑莓电影
+http://H4sIAAAAAAACEy3NMQ7CMAwF0NswEvvHbRxLFWKjEgNqEQtiohkyUCoSENweBt4F3hlC0ZQ0mBeogawhMmOieLG2ZXKH/fHk9M8B4jzAQKORXZ6n9F7f/FM3JT1e+ZrqZ0kdr/rtuKt1GVMp+T73UzcMAq8ggH4lewkszJGDfgFUnFKHhAAAAA==??
+#EXTINF:-1,tvg-id="" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="数字", 黑莓动画
+http://H4sIAAAAAAACEy3NsQrCMBAG4LdxNHd/rs31oIibBQdpxUWcbIQMrcVE0bfXwe8FvjOEGlPSYF6gBrKKyIyJbherayZ32B9PTv8cIM4DDFQa1KV5jO/15J+6yfHxStdYPktsedVth10pyxBzTve5G9u+F3gFAfQr2UtgYW446BfWc5tqhAAAAA==??
+#EXTINF:-1,tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qsdw.png" group-title="数字", 求索动物
+http://H4sIAAAAAAACEy3BOw6DQAwFwBv587DA8RkoUiCaiAIWJFbKLilIxPHTMPOCySNcvAszQUBCQ6FtmGiYTpw/54/SWmmfKe25zuVY8nujdBR+9sPIfmPAuAEUaFWdc123i0rz9T+cBkWEZQAAAA==??
+#EXTINF:-1,tvg-id="6244" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qsjl.png" group-title="数字", 求索生活
+http://H4sIAAAAAAACEy3BOw6DMBAFwBvt53llnD0DRQpEE1GAQcJSbFKQiOOnYeYFk4cnSZ2bCRzi6gqNbqJuYeLyOX+U10b7THkvba7HUt4b5aPysx9GTjcGjAOgQFSNXNq6XVTDN/0BVKW432UAAAA=??
+#EXTINF:-1,tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qskx.png" group-title="数字", 求索科学
+http://H4sIAAAAAAACEy3BOw6DMBAFwBvt57Exzp6BIkWUBlGAQcISNikg4vg0melh8vQosXUzgUNcXaHBTdQtDJy/x4/SXGkdKa25jmWf8rZQ2gu/uveH4x8Dxg2gQFB9cK7zclFpzngDIqipT2UAAAA=??
+#EXTINF:-1,tvg-id="芒果华语电影" tvg-name="芒果华语" tvg-logo="" group-title="数字", 芒果华语
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MjYxsrAyMrAyNTCwsjI0MEiLtTIzMzTQD/AJCdO3gAJ9IyMTfWMjI0MjIzNzAwv9zLyU1Aq9XONSC/vi1KKyzOTUksqCVFtDAN2Z909YAAAA??
+#EXTINF:-1,tvg-id="芒果tv独播" tvg-name="芒果独播" tvg-logo="" group-title="数字", 芒果独播
+http://H4sIAAAAAAACEy3BTQ5AMBAG0BuZ6deq6STiAhYWYiNWVNIFEX/h9jbe6+E4qLAUah1EwZozqxrmeVDvDVNTtx3JjwBHFjCA9wGU1ik+2WIvqY6432mM57vF0nzYzy+iWAAAAA==??
+#EXTINF:-1,tvg-id="芒果欧美电影" tvg-name="芒果欧美" tvg-logo="" group-title="数字", 芒果欧美
+http://H4sIAAAAAAACEy3BPQ5AQBAG0BuZmW/XGpOICygUohEVK1EQ8Rdur/FeB8+5KWtmzkMNbCmzmTBPvYUgTHXVtKQ/Ajw5QICQCWhex/gki7u0POJ+z0M83y0W8gFP5BhhWAAAAA==??
+#EXTINF:-1,tvg-id="芒果综艺4k" tvg-name="芒果综艺" tvg-logo="" group-title="数字", 芒果综艺
+http://H4sIAAAAAAACEy3BTQ5AMBAG0BuZ6ddqxyTiAhYWYiNWVNIFEX/h9jbe6+G4UGEJah1EwZozqxrmeVDvDVNTtx3JjwBHFjCAFwmU1ik+2WIvqY6432mM57vF0nx2AjkJWAAAAA==??
+#EXTINF:-1,tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://epg.112114.xyz/logo/newtv超级综艺.png" group-title="数字", 超级综艺
+http://H4sIAAAAAAACEy3GIQ6AQAwEwB/R7faulL4BgSAYguMEAhwJzyckjJqVBUMGok8L/0ZNBTSz1S3dFTKN8yLxE7KIkUpWJ4RyXHt7utPueAF7f7/YTQAAAA==??
+#EXTINF:-1,tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://epg.112114.xyz/logo/newtv超级体育.png" group-title="数字", 超级体育
+http://H4sIAAAAAAACEy3GIQ6AQAwEwB+x7faulL4BgSAYguMEAhwJzyckjJqVRYYMiT4t/Bs1VUQzW93SXQXTOC+IH8gCI5WsToI4rr093Wl3vNa70TlNAAAA??
+#EXTINF:-1,tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://epg.112114.xyz/logo/newtv超级电影.png" group-title="数字", 超级电影
+http://H4sIAAAAAAACEy3GIQ6AQAwEwB+x7faulL4BgSAYguMEAhwJzyckjJqVRYYMiT4t/Bs1VUQzW93SXQXTOC+IH8gCI5WsTgNxXHt7utPueAGgWt6kTQAAAA==??
+#EXTINF:-1,tvg-id="超级视剧" tvg-name="超级视剧" tvg-logo="https://epg.112114.xyz/logo/newtv超级电视剧.png" group-title="数字", 超级视剧
+http://H4sIAAAAAAACEy3GIQ6AQAwEwB+x7faulL4BgSAYguMEAhwJzyckjJqVRYYMiT4t/Bs1VUQzW93SXQXTOC+IH8gCI5WszgriuPb2dKfd8QIWERxcTQAAAA==??
+#EXTINF:-1,tvg-id="武博世界" tvg-name="武博世界" tvg-logo="https://epg.112114.xyz/logo/武博世界.png" group-title="数字", 武博世界
+http://H4sIAAAAAAACEy3GIQ6AQAwEwB+x7faulL4BgSAYguMEAhwJzyckjJqVRYYMiT4t/Bs1VUQzW93SXQXTOC+IH8gCI5WsXh3Ece3t6U674wXXO3y7TQAAAA==??
+#EXTINF:-1,tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.112114.xyz/logo/newtv中国功夫.png" group-title="数字", 中国功夫
+http://H4sIAAAAAAACEy3GIQ6AQAwEwB/R7faulL4BgSAYguMEAhwJzyckjJqVBUMGok8L/0ZNBTSz1S3dFTKN8yLxE7KIkUpWdwjluPb2dKfd8QIYGsNSTQAAAA==??
+#EXTINF:-1,tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/newtv军旅剧场.png" group-title="数字", 军旅剧场
+http://H4sIAAAAAAACEy3GIQ6AMAwF0Bvx27+tdD0DArFgCI4JBDgSjk9IeOqtzFLDxcdIbt+ooSIa0csWZiqYp7bAfyAzEqlkMasgjmvvz3Cm219Y5ZX8TQAAAA==??
+#EXTINF:-1,tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.112114.xyz/logo/newtv古装剧场.png" group-title="数字", 古装剧场
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C2gQN/IyETf2MjI0MjI1MwcyNXPzEtJrdDLNS61AADG32HYTQAAAA==??
+#EXTINF:-1,tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://epg.112114.xyz/logo/newtv炫舞未来.png" group-title="数字", 炫舞未来
+http://H4sIAAAAAAACEy3GMQ6AMAgF0BsJfFpAzuDg0LgYNzs46Gbi8Y2Jb3orCo8ZHJ4a9g2SwiyZvW5pJkzz1BaKHwGFFBCgOjuBjmvvz3DqHS+79Zy7TQAAAA==??
+#EXTINF:-1,tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/newtv潮妈辣婆.png" group-title="数字", 潮妈辣婆
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C2gQN/IyETf2MjI0MjI1NwAyNXPzEtJrdDLNS61AABNQQjtTQAAAA==??
+#EXTINF:-1,tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://epg.112114.xyz/logo/newtv精品体育.png" group-title="数字", 精品体育
+http://H4sIAAAAAAACEy3GIQ6AMAwF0BvR37+t63oGBIJgCI4JBDgSjk9IeOqtzGjh8BrJ7Rs1FNCIXrYwU8g0zov4T8gsiVSyVDShHNfen+FMt787oAdwTQAAAA==??
+#EXTINF:-1,tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://epg.112114.xyz/logo/精品记录.png" group-title="数字", 精品纪录
+http://H4sIAAAAAAACE4s2MjGwtLIwsDC3MrYwA7GMDK0MDQwMraxSTWOtzMwMDfQDfELC9C2gQN/IyETf2MjI0MjI1BwoaaSfmZeSWqGXa1xqAQCThKpnTQAAAA==??
+#EXTINF:-1,tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.112114.xyz/logo/newtv金牌综艺.png" group-title="数字", 金牌综艺
+http://H4sIAAAAAAACEy3GIQ6AMAwF0BvR/r+tKz0DArFgCI4JBDgSjk9IeOqtzDqGq9dIbt+IgCoietnCDCrz1Bbxn5BZEgmyVEAox7X3ZzjT7S/lZaX6TQAAAA==??
+#EXTINF:-1,tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://epg.112114.xyz/logo/newtv家庭剧场.png" group-title="数字", 家庭剧场
+http://H4sIAAAAAAACEy3GKw6AQAwFwBvx2tf9lJ4BgdhgCI4VCHAkHJ+QMGpWJhnDxWuYl2/UUBGN6HmLUlQwT22B/0AmGKlkrmogjmvvz3Da7S9IocsbTQAAAA==??
+#EXTINF:-1,tvg-id="金品大剧" tvg-name="精品大剧" tvg-logo="https://epg.112114.xyz/logo/newtv精品大剧.png" group-title="数字", 精品大剧
+http://H4sIAAAAAAACEy3GMQ6AMAgF0BsJfChFzuDg0LgYNzs46Gbi8Y2Jb3orjMcMjpoa/g2SwiyZvWzpLkzz1BaKHwFGCghQqhiBjmvvz3DqHS+ICwZ+TQAAAA==??
+#EXTINF:-1,tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.112114.xyz/logo/newtv军事评论.png" group-title="数字", 军事评论
+http://H4sIAAAAAAACEy3GKw6AQAwFwBvR9u32Q8+AQGwwBMcKBDgSjk9IGDUrKo8ZHJ4l7BskhVkyu25pJkzz1BaKHwGVCiCAujqBjmvvz3CWO14wSxuITQAAAA==??
