@@ -1,4 +1,4 @@
-#EXTM3U-[请在App Store搜索下载iTelevision，再进行导入频道！]
+#EXTM3U-[请在App Store搜索下载iTelevision进行导入频道！]
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/cctv5+.png" group-title="a央视", CCTV5+
 http://H4sIAAAAAAACEzO21DM0NtEzNDTTMzawsjCwMNAP8AkJ07cAAUtDA30jIxN9YyMjQyMjU3MDM/3MvJTUCr1c41ILADNBRAE6AAAA??
 #EXTINF:-1,tvg-id="cctv8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/cctv8.png" group-title="a央视", CCTV8
