@@ -9,9 +9,9 @@
 
 ## Telegram交流群
 > [https://t.me/iTelevisions](https://t.me/iTelevisions)
+## 关注Telegram频道，获取最新视频源通知
+> [https://t.me/iTelecast](https://t.me/iTelecast)
 ## TestFlight测试
-> 关注TG频道，获取视频源通知：[https://t.me/iTelecast](https://t.me/iTelecast)
-
 > tvOS：[https://testflight.apple.com/join/woLYKBj6](https://testflight.apple.com/join/woLYKBj6)
 
 > macOS：[https://testflight.apple.com/join/6EZKPkLF](https://testflight.apple.com/join/6EZKPkLF)
