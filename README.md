@@ -15,7 +15,7 @@
 > tvOS：[https://testflight.apple.com/join/woLYKBj6](https://testflight.apple.com/join/woLYKBj6)
 
 > macOS：[https://testflight.apple.com/join/6EZKPkLF](https://testflight.apple.com/join/6EZKPkLF)
-## 自己研发自己推广，几个无广告的App。欢迎点击跳转App Store安装。
+## 自己研发自己推广。欢迎点击跳转App Store安装。
 ### 一、iPhone/iPad端安装
 >[1、iTelevision （更好用的直播流播放器/手机电视）](https://apps.apple.com/cn/app/itelevision/id6443470500)
 > iTelevision群：[https://t.me/iTelevisions](https://t.me/iTelevisions)
@@ -27,9 +27,10 @@
 > iSMS群：[https://t.me/iSMS_iContact](https://t.me/iSMS_iContact)
 
 >[4、iDraft (电子绘图、电子草稿)](https://apps.apple.com/cn/app/idraft/id1555981466)
-> iNetwork群：[https://t.me/iNetworka](https://t.me/iNetworka)
+> iDraft群：[https://t.me/iDrafts](https://t.me/iDrafts)
 
 >[5、iBlog （博客园客户端，开发者的网上家园）](https://apps.apple.com/cn/app/iblog/id1571216825)
+> iNetwork群:[https://t.me/iNetworka](https://t.me/iNetworka)
 ### 二、iMac、MacBook等安装：
 >[1、iSpider （复原windows端的蜘蛛纸牌）](https://apps.apple.com/cn/app/spider-card/id1579985010?mt=12)
 
