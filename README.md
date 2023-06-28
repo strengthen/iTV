@@ -3,9 +3,12 @@
 > [https://apps.apple.com/cn/app/itelevision/id6443470500](https://apps.apple.com/cn/app/itelevision/id6443470500)
 # 测试源【可下载本项目直接导入视频源文件】
 > 本项目所有文件及以下直播源均来自网络收集，仅用于iTelevision测试使用，禁止传播。本人不对内容的隐私和版权负责。
-- 频道测试，普通频道(直接修改链接中的tvN.m3u，其中N为自然数)：
-[https://raw.githubusercontent.com/strengthen/iTV/master/M3U/tv0.m3u](https://raw.githubusercontent.com/strengthen/iTV/master/M3U/tv0.m3u)
-- 回放测试：[https://raw.githubusercontent.com/strengthen/iTV/master/M3U/test_ap_playback.m3u](https://raw.githubusercontent.com/strengthen/iTV/master/M3U/test_ap_playback.m3u)
+- （1）、可以访问Github，推荐【直接订阅测试】，直接修改链接中的tvN.m3u，其中N为自然数：
+- [https://raw.githubusercontent.com/strengthen/iTV/master/M3U/tv0.m3u](https://raw.githubusercontent.com/strengthen/iTV/master/M3U/tv0.m3u)
+- （2）、无法访问GitHub，推荐【代理订阅测试】，直接修改链接中的tvN.m3u，其中N为自然数：
+- [https://ghproxy.com/https://raw.githubusercontent.com/strengthen/iTV/master/M3U/tv0.m3u](https://ghproxy.com/https://raw.githubusercontent.com/strengthen/iTV/master/M3U/tv0.m3u)
+- （3）【回放测试】：
+- [https://raw.githubusercontent.com/strengthen/iTV/master/M3U/test_ap_playback.m3u](https://raw.githubusercontent.com/strengthen/iTV/master/M3U/test_ap_playback.m3u)
 
 ## Telegram交流群
 > [https://t.me/iTelevisions](https://t.me/iTelevisions)
