@@ -1,4 +1,4 @@
-# iTelevision已上线App Store
+# 一、iTelevision已上线App Store
 <a href='https://apps.apple.com/cn/app/itelevision/id6443470500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 > [https://apps.apple.com/cn/app/itelevision/id6443470500](https://apps.apple.com/cn/app/itelevision/id6443470500)
 # 测试源【可下载本项目直接导入视频源文件】
@@ -19,7 +19,7 @@
 
 > macOS：[https://testflight.apple.com/join/6EZKPkLF](https://testflight.apple.com/join/6EZKPkLF)
 
-### 欢迎从App Store下载：iNFC
+# 二、欢迎从App Store下载：iNFC
 > [https://apps.apple.com/cn/app/infc/id1562054959](https://apps.apple.com/cn/app/infc/id1562054959)
 ## 1、iNFC官方店铺：
 > [https://shop186988287.taobao.com/](https://shop186988287.taobao.com/)
